@@ -1,0 +1,4 @@
+  
+numero    | Nombres                      | fecha                        |  Problema                                        |  Costo   |
+41        |                              |                              |                                                  |          |
+467       |sky                           |20 de diciembre               |dolor de pata                                     |250       |
